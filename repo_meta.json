@@ -1,0 +1,28 @@
+{
+  "name_suggestions": [
+    "pancreatic-disease-prediction-ml",
+    "pancreas-biomarkers-tabular-ml",
+    "pancreatic-diagnostics-pytorch-automl",
+    "pancreas-risk-classification-notebook",
+    "pancreatic-biomarker-classification"
+  ],
+  "english_description": "Pancreatic disease prediction from biomarker tabular data (Debernardi et al., 2020) — EDA, classical ML (CatBoost/LightGBM/XGBoost), PyTorch MLP, LightAutoML, Optuna HPO, and rigorous evaluation.",
+  "github_topics": [
+    "machine-learning",
+    "healthcare",
+    "biomarkers",
+    "tabular-data",
+    "classification",
+    "pytorch",
+    "scikit-learn",
+    "lightgbm",
+    "xgboost",
+    "catboost",
+    "optuna",
+    "automl",
+    "ydata-profiling",
+    "pandas",
+    "numpy",
+    "reproducibility"
+  ]
+}

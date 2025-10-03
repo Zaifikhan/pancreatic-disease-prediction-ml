@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data & artifacts
+data/
+datasets/
+inputs/
+outputs/
+artifacts/
+models/
+*.pkl
+*.joblib
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.npy
+*.npz
+*.xlsx
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

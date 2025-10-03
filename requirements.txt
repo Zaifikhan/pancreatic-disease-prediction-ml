@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+torch
+optuna
+tqdm
+ydata-profiling
+lightautoml
+joblib
