@@ -1,4 +1,14 @@
 # Pancreatic Disease Prediction — Tabular ML & Neural Nets
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-informational.svg)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.x-informational.svg)
+![LightGBM](https://img.shields.io/badge/LightGBM-4.x-informational.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.x-informational.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
+![Optuna](https://img.shields.io/badge/Optuna-3.x-informational.svg)
+![LightAutoML](https://img.shields.io/badge/LightAutoML-informational.svg)
 
 This repository contains a **reproducible notebook** for predicting pancreatic disease status from tabular biomarker data (Debernardi et al., 2020).  
 It compares a strong classical ML baseline (CatBoost / LightGBM / XGBoost / scikit‑learn) to a **PyTorch MLP** and an **AutoML** baseline (LightAutoML), with careful evaluation and ablation.
